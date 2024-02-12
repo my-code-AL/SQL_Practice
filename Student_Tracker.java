@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class Student_Tracker {
     // all my information used to log into my current DB
     private static final String DB_URL = "jdbc:mysql://localhost:3306/project_db";
-    private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "2550";
+    private static final String DB_USER = "main_user";
+    private static final String DB_PASSWORD = "my_password";
 
     public static void main(String[] args) {
 
